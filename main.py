@@ -1,1 +1,1 @@
-print('Beslan test')
+print('Beslan test 2')
